@@ -44,7 +44,7 @@ function generateMessage(noCount) {
   const messages = [
     "No",
     "Are you sure?",
-    "Pookie please",
+    "Milanesa please",
     "Don't do this to me :(",
     "You're breaking my heart",
     "I'm gonna cry...",
@@ -55,7 +55,7 @@ function generateMessage(noCount) {
 }
 
 function changeImage(image) {
-  catImg.src = `img/cat-${image}.jpg`;
+  catImg.src = `img/kanye-${image}.png`;
 }
 
 function updateNoButtonText() {
